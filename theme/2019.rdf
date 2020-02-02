@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xkos="http://rdf-vocabulary.ddialliance.org/xkos#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:ft="http://publications.europa.eu/resource/authority/file-type/" xmlns:mt="https://www.iana.org/assignments/media-types/">
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:identifier>theme-2019</dct:identifier>
+    <owl:versionInfo>2019</owl:versionInfo>
+    <dct:isVersionOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme"/>
+    <dct:title xml:lang="en">Themes for public services</dct:title>
+    <dct:description xml:lang="en">Themes for public services</dct:description>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:issued>
+    <dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:valid>
+    <wdrs:validfrom rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validfrom>
+    <wdrs:validuntil rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validuntil>
+    <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <rdfs:isDefinedBy rdf:resource="https://joinup.ec.europa.eu/sites/default/files/news/2019-09/ISA2_European%20taxonomy%20for%20public%20services.pdf"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T01"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T02"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T03"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T04"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T05"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T06"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T07"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T08"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T09"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T10"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T12"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T14"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T15"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T16"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T17"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T18"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T19"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T20"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T21"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T22"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T23"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T24"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T25"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T26"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T27"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T28"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T29"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T30"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T01">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T01</dct:identifier>
+    <skos:notation>T01</skos:notation>
+    <skos:prefLabel xml:lang="en">Agriculture &amp; food</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T02">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T02</dct:identifier>
+    <skos:notation>T02</skos:notation>
+    <skos:prefLabel xml:lang="en">Animal</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T03">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T03</dct:identifier>
+    <skos:notation>T03</skos:notation>
+    <skos:prefLabel xml:lang="en">Border control</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T04">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T04</dct:identifier>
+    <skos:notation>T04</skos:notation>
+    <skos:prefLabel xml:lang="en">Culture, sport and leisure</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T05">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T05</dct:identifier>
+    <skos:notation>T05</skos:notation>
+    <skos:prefLabel xml:lang="en">Defence</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T06">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T06</dct:identifier>
+    <skos:notation>T06</skos:notation>
+    <skos:prefLabel xml:lang="en">Digital</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T07">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T07</dct:identifier>
+    <skos:notation>T07</skos:notation>
+    <skos:prefLabel xml:lang="en">Education</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0701"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0702"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0703"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0701">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T0701</dct:identifier>
+    <skos:notation>T0701</skos:notation>
+    <skos:prefLabel xml:lang="en">Higher education</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0702">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T0702</dct:identifier>
+    <skos:notation>T0702</skos:notation>
+    <skos:prefLabel xml:lang="en">Training</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T0703">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T0703</dct:identifier>
+    <skos:notation>T0703</skos:notation>
+    <skos:prefLabel xml:lang="en">Home schooling</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T08">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T08</dct:identifier>
+    <skos:notation>T08</skos:notation>
+    <skos:prefLabel xml:lang="en">Emergency</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T09">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T09</dct:identifier>
+    <skos:notation>T09</skos:notation>
+    <skos:prefLabel xml:lang="en">Environmental</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T10">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T10</dct:identifier>
+    <skos:notation>T10</skos:notation>
+    <skos:prefLabel xml:lang="en">Family</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T11</dct:identifier>
+    <skos:notation>T11</skos:notation>
+    <skos:prefLabel xml:lang="en">General Business</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1101"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1102"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1103"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1104"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1105"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1106"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1107"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1108"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1101">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1101</dct:identifier>
+    <skos:notation>T1101</skos:notation>
+    <skos:prefLabel xml:lang="en">Self-employed</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1102">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1102</dct:identifier>
+    <skos:notation>T1102</skos:notation>
+    <skos:prefLabel xml:lang="en">Starting, running and closing a business</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1103">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1103</dct:identifier>
+    <skos:notation>T1103</skos:notation>
+    <skos:prefLabel xml:lang="en">Staff</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1104">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1104</dct:identifier>
+    <skos:notation>T1104</skos:notation>
+    <skos:prefLabel xml:lang="en">Goods</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1105">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1105</dct:identifier>
+    <skos:notation>T1105</skos:notation>
+    <skos:prefLabel xml:lang="en">Services</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1106">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1106</dct:identifier>
+    <skos:notation>T1106</skos:notation>
+    <skos:prefLabel xml:lang="en">Funding a business</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1107">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1107</dct:identifier>
+    <skos:notation>T1107</skos:notation>
+    <skos:prefLabel xml:lang="en">Public contracts</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1108">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1108</dct:identifier>
+    <skos:notation>T1108</skos:notation>
+    <skos:prefLabel xml:lang="en">Health and safety at work</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T12">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T12</dct:identifier>
+    <skos:notation>T12</skos:notation>
+    <skos:prefLabel xml:lang="en">General Government</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1201">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1201</dct:identifier>
+    <skos:notation>T1201</skos:notation>
+    <skos:prefLabel xml:lang="en">Elections</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T13</dct:identifier>
+    <skos:notation>T13</skos:notation>
+    <skos:prefLabel xml:lang="en">General Person / Civil status</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1301"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1302"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1303"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1304"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1301">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1301</dct:identifier>
+    <skos:notation>T1301</skos:notation>
+    <skos:prefLabel xml:lang="en">Death</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1302">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1302</dct:identifier>
+    <skos:notation>T1302</skos:notation>
+    <skos:prefLabel xml:lang="en">Birth</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1303">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1303</dct:identifier>
+    <skos:notation>T1303</skos:notation>
+    <skos:prefLabel xml:lang="en">Adoption</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1304">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1304</dct:identifier>
+    <skos:notation>T1304</skos:notation>
+    <skos:prefLabel xml:lang="en">Migration</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T1305">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T1305</dct:identifier>
+    <skos:notation>T1305</skos:notation>
+    <skos:prefLabel xml:lang="en">Immigration</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T14">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T14</dct:identifier>
+    <skos:notation>T14</skos:notation>
+    <skos:prefLabel xml:lang="en">Health care</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T15">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T15</dct:identifier>
+    <skos:notation>T15</skos:notation>
+    <skos:prefLabel xml:lang="en">Housing</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T16">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T16</dct:identifier>
+    <skos:notation>T16</skos:notation>
+    <skos:prefLabel xml:lang="en">Legal</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T17">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T17</dct:identifier>
+    <skos:notation>T17</skos:notation>
+    <skos:prefLabel xml:lang="en">Manufacturing</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T18">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T18</dct:identifier>
+    <skos:notation>T18</skos:notation>
+    <skos:prefLabel xml:lang="en">Media</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T19">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T19</dct:identifier>
+    <skos:notation>T19</skos:notation>
+    <skos:prefLabel xml:lang="en">Monetary policy</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T20">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T20</dct:identifier>
+    <skos:notation>T20</skos:notation>
+    <skos:prefLabel xml:lang="en">Money &amp; Debt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T21">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T21</dct:identifier>
+    <skos:notation>T21</skos:notation>
+    <skos:prefLabel xml:lang="en">Natural resources</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T22">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T22</dct:identifier>
+    <skos:notation>T22</skos:notation>
+    <skos:prefLabel xml:lang="en">Public space management &amp; heritage</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T23">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T23</dct:identifier>
+    <skos:notation>T23</skos:notation>
+    <skos:prefLabel xml:lang="en">Religious</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T24">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T24</dct:identifier>
+    <skos:notation>T24</skos:notation>
+    <skos:prefLabel xml:lang="en">Retail</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T25">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T25</dct:identifier>
+    <skos:notation>T25</skos:notation>
+    <skos:prefLabel xml:lang="en">Science and technology</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T26">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T26</dct:identifier>
+    <skos:notation>T26</skos:notation>
+    <skos:prefLabel xml:lang="en">Stock market</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T27">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T27</dct:identifier>
+    <skos:notation>T27</skos:notation>
+    <skos:prefLabel xml:lang="en">Tourism &amp; travelling</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T28">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T28</dct:identifier>
+    <skos:notation>T28</skos:notation>
+    <skos:prefLabel xml:lang="en">Transportation &amp; transportation infrastructure</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2801"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2802"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2801">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T2801</dct:identifier>
+    <skos:notation>T2801</skos:notation>
+    <skos:prefLabel xml:lang="en">Road signs</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2802">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T2802</dct:identifier>
+    <skos:notation>T2802</skos:notation>
+    <skos:prefLabel xml:lang="en">Vehicles</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T29">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T29</dct:identifier>
+    <skos:notation>T29</skos:notation>
+    <skos:prefLabel xml:lang="en">Utilities</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2901"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2902"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2903"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2901">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T2901</dct:identifier>
+    <skos:notation>T2901</skos:notation>
+    <skos:prefLabel xml:lang="en">Water (if applicable)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2902">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T2902</dct:identifier>
+    <skos:notation>T2902</skos:notation>
+    <skos:prefLabel xml:lang="en">Energy (if applicable)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T2903">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T2903</dct:identifier>
+    <skos:notation>T2903</skos:notation>
+    <skos:prefLabel xml:lang="en">Waste collection sites (if applicable)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T30">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T30</dct:identifier>
+    <skos:notation>T30</skos:notation>
+    <skos:prefLabel xml:lang="en">Welfare &amp; social care</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T31">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T31</dct:identifier>
+    <skos:notation>T31</skos:notation>
+    <skos:prefLabel xml:lang="en">Work</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T3101"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T3102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T3101">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T3101</dct:identifier>
+    <skos:notation>T3101</skos:notation>
+    <skos:prefLabel xml:lang="en">Retirement</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T3102">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>T3102</dct:identifier>
+    <skos:notation>T3102</skos:notation>
+    <skos:prefLabel xml:lang="en">Employment</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019/T31"/>
+  </rdf:Description>
+</rdf:RDF>

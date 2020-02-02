@@ -1,0 +1,43 @@
+id,name,description,parent
+P01,Framework,,
+P0101,Procedures,,P01
+P0102,Measures,,P01
+P0103,Law definition,,P01
+P0104,Management (of a bureaucratical structure),,P01
+P0105,Asset management,,P01
+P0106,Collective infrastructure,,P01
+P0107,Schemes & plans,,P01
+P02,Information,,
+P0201,Information,,P02
+P0202,Advice,,P02
+P03,Registration,,
+P0301,Registration,,P03
+P04,Certification,,
+P0401,Certification,,P04
+P0402,Licensing,,P04
+P0403,Permission,,P04
+P0404,Authorisation,,P04
+P05,Financing,,
+P0501,Financial support,,P05
+P0502,Material support,,P05
+P0503,Provision of free services,,P05
+P0504,Provision of discounted services,,P05
+P06,Production,,
+P0601,Governmental service at normal price,,P06
+P0602,Maintenance of property,,P06
+P0603,Maintenance of infrastructure,,P06
+P0604,Provision of infrastructure for a charge,,P06
+P0605,Waste management,,P06
+P07,Feedback,,
+P0701,General complaints,,P07
+P0702,Injury / Damage complaints,,P07
+P0703,Feedback,,P07
+P0704,Appeals against decisions,,P07
+P0705,Mediation,,P07
+P08,Control & monitoring,,
+P0801,Control,,P08
+P0802,Monitoring,,P08
+P0803,Testing,,P08
+P0804,Assessment,,P08
+P0805,Law enforcement,,P08
+P09,Taxation,,

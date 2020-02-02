@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xkos="http://rdf-vocabulary.ddialliance.org/xkos#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:ft="http://publications.europa.eu/resource/authority/file-type/" xmlns:mt="https://www.iana.org/assignments/media-types/">
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dct:identifier>pattern-2019</dct:identifier>
+    <owl:versionInfo>2019</owl:versionInfo>
+    <dct:isVersionOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern"/>
+    <dct:title xml:lang="en">Patterns for public services</dct:title>
+    <dct:description xml:lang="en">Patterns for public services</dct:description>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:issued>
+    <dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:valid>
+    <wdrs:validfrom rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validfrom>
+    <wdrs:validuntil rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validuntil>
+    <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <rdfs:isDefinedBy rdf:resource="https://joinup.ec.europa.eu/sites/default/files/news/2019-09/ISA2_European%20taxonomy%20for%20public%20services.pdf"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P02"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P03"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P09"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P01</dct:identifier>
+    <skos:notation>P01</skos:notation>
+    <skos:prefLabel xml:lang="en">Framework</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0101"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0102"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0103"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0104"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0105"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0106"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0101">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0101</dct:identifier>
+    <skos:notation>P0101</skos:notation>
+    <skos:prefLabel xml:lang="en">Procedures</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0102">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0102</dct:identifier>
+    <skos:notation>P0102</skos:notation>
+    <skos:prefLabel xml:lang="en">Measures</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0103">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0103</dct:identifier>
+    <skos:notation>P0103</skos:notation>
+    <skos:prefLabel xml:lang="en">Law definition</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0104">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0104</dct:identifier>
+    <skos:notation>P0104</skos:notation>
+    <skos:prefLabel xml:lang="en">Management (of a bureaucratical structure)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0105">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0105</dct:identifier>
+    <skos:notation>P0105</skos:notation>
+    <skos:prefLabel xml:lang="en">Asset management</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0106">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0106</dct:identifier>
+    <skos:notation>P0106</skos:notation>
+    <skos:prefLabel xml:lang="en">Collective infrastructure</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0107">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0107</dct:identifier>
+    <skos:notation>P0107</skos:notation>
+    <skos:prefLabel xml:lang="en">Schemes &amp; plans</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P01"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P02">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P02</dct:identifier>
+    <skos:notation>P02</skos:notation>
+    <skos:prefLabel xml:lang="en">Information</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0201"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0201">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0201</dct:identifier>
+    <skos:notation>P0201</skos:notation>
+    <skos:prefLabel xml:lang="en">Information</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P02"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0202">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0202</dct:identifier>
+    <skos:notation>P0202</skos:notation>
+    <skos:prefLabel xml:lang="en">Advice</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P02"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P03">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P03</dct:identifier>
+    <skos:notation>P03</skos:notation>
+    <skos:prefLabel xml:lang="en">Registration</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0301">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0301</dct:identifier>
+    <skos:notation>P0301</skos:notation>
+    <skos:prefLabel xml:lang="en">Registration</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P03"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P04</dct:identifier>
+    <skos:notation>P04</skos:notation>
+    <skos:prefLabel xml:lang="en">Certification</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0401"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0402"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0403"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0404"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0401">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0401</dct:identifier>
+    <skos:notation>P0401</skos:notation>
+    <skos:prefLabel xml:lang="en">Certification</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0402">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0402</dct:identifier>
+    <skos:notation>P0402</skos:notation>
+    <skos:prefLabel xml:lang="en">Licensing</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0403">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0403</dct:identifier>
+    <skos:notation>P0403</skos:notation>
+    <skos:prefLabel xml:lang="en">Permission</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0404">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0404</dct:identifier>
+    <skos:notation>P0404</skos:notation>
+    <skos:prefLabel xml:lang="en">Authorisation</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P04"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P05</dct:identifier>
+    <skos:notation>P05</skos:notation>
+    <skos:prefLabel xml:lang="en">Financing</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0501"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0502"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0503"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0504"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0501">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0501</dct:identifier>
+    <skos:notation>P0501</skos:notation>
+    <skos:prefLabel xml:lang="en">Financial support</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0502">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0502</dct:identifier>
+    <skos:notation>P0502</skos:notation>
+    <skos:prefLabel xml:lang="en">Material support</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0503">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0503</dct:identifier>
+    <skos:notation>P0503</skos:notation>
+    <skos:prefLabel xml:lang="en">Provision of free services</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0504">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0504</dct:identifier>
+    <skos:notation>P0504</skos:notation>
+    <skos:prefLabel xml:lang="en">Provision of discounted services</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P05"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P06</dct:identifier>
+    <skos:notation>P06</skos:notation>
+    <skos:prefLabel xml:lang="en">Production</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0601"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0602"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0603"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0604"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0605"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0601">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0601</dct:identifier>
+    <skos:notation>P0601</skos:notation>
+    <skos:prefLabel xml:lang="en">Governmental service at normal price</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0602">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0602</dct:identifier>
+    <skos:notation>P0602</skos:notation>
+    <skos:prefLabel xml:lang="en">Maintenance of property</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0603">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0603</dct:identifier>
+    <skos:notation>P0603</skos:notation>
+    <skos:prefLabel xml:lang="en">Maintenance of infrastructure</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0604">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0604</dct:identifier>
+    <skos:notation>P0604</skos:notation>
+    <skos:prefLabel xml:lang="en">Provision of infrastructure for a charge</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0605">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0605</dct:identifier>
+    <skos:notation>P0605</skos:notation>
+    <skos:prefLabel xml:lang="en">Waste management</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P06"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P07</dct:identifier>
+    <skos:notation>P07</skos:notation>
+    <skos:prefLabel xml:lang="en">Feedback</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0701"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0702"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0703"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0704"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0705"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0701">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0701</dct:identifier>
+    <skos:notation>P0701</skos:notation>
+    <skos:prefLabel xml:lang="en">General complaints</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0702">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0702</dct:identifier>
+    <skos:notation>P0702</skos:notation>
+    <skos:prefLabel xml:lang="en">Injury / Damage complaints</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0703">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0703</dct:identifier>
+    <skos:notation>P0703</skos:notation>
+    <skos:prefLabel xml:lang="en">Feedback</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0704">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0704</dct:identifier>
+    <skos:notation>P0704</skos:notation>
+    <skos:prefLabel xml:lang="en">Appeals against decisions</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0705">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0705</dct:identifier>
+    <skos:notation>P0705</skos:notation>
+    <skos:prefLabel xml:lang="en">Mediation</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P07"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P08</dct:identifier>
+    <skos:notation>P08</skos:notation>
+    <skos:prefLabel xml:lang="en">Control &amp; monitoring</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0801"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0802"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0803"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0804"/>
+    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0805"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0801">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0801</dct:identifier>
+    <skos:notation>P0801</skos:notation>
+    <skos:prefLabel xml:lang="en">Control</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0802">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0802</dct:identifier>
+    <skos:notation>P0802</skos:notation>
+    <skos:prefLabel xml:lang="en">Monitoring</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0803">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0803</dct:identifier>
+    <skos:notation>P0803</skos:notation>
+    <skos:prefLabel xml:lang="en">Testing</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0804">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0804</dct:identifier>
+    <skos:notation>P0804</skos:notation>
+    <skos:prefLabel xml:lang="en">Assessment</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P0805">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P0805</dct:identifier>
+    <skos:notation>P0805</skos:notation>
+    <skos:prefLabel xml:lang="en">Law enforcement</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P08"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/pattern/2019/P09">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dct:identifier>P09</dct:identifier>
+    <skos:notation>P09</skos:notation>
+    <skos:prefLabel xml:lang="en">Taxation</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
+  </rdf:Description>
+</rdf:RDF>

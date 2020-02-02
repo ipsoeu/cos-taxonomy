@@ -1,0 +1,56 @@
+id,name,description,parent
+T01,Agriculture & food,,
+T02,Animal,,
+T03,Border control,,
+T04,"Culture, sport and leisure",,
+T05,Defence,,
+T06,Digital,,
+T07,Education,,
+T0701,Higher education,,T07
+T0702,Training,,T07
+T0703,Home schooling,,T07
+T08,Emergency,,
+T09,Environmental,,
+T10,Family,,
+T11,General Business,,
+T1101,Self-employed,,T11
+T1102,"Starting, running and closing a business",,T11
+T1103,Staff,,T11
+T1104,Goods,,T11
+T1105,Services,,T11
+T1106,Funding a business,,T11
+T1107,Public contracts,,T11
+T1108,Health and safety at work,,T11
+T12,General Government,,
+T1201,Elections,,T12
+T13,General Person / Civil status,,
+T1301,Death,,T13
+T1302,Birth,,T13
+T1303,Adoption,,T13
+T1304,Migration,,T13
+T1305,Immigration,,T13
+T14,Health care,,
+T15,Housing,,
+T16,Legal,,
+T17,Manufacturing,,
+T18,Media,,
+T19,Monetary policy,,
+T20,Money & Debt,,
+T21,Natural resources,,
+T22,Public space management & heritage,,
+T23,Religious,,
+T24,Retail,,
+T25,Science and technology,,
+T26,Stock market,,
+T27,Tourism & travelling,,
+T28,Transportation & transportation infrastructure,,
+T2801,Road signs,,T28
+T2802,Vehicles,,T28
+T29,Utilities,,
+T2901,Water (if applicable),,T29
+T2902,Energy (if applicable),,T29
+T2903,Waste collection sites (if applicable),,T29
+T30,Welfare & social care,,
+T31,Work,,
+T3101,Retirement,,T31
+T3102,Employment,,T31

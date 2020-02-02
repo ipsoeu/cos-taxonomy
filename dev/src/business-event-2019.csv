@@ -1,0 +1,25 @@
+id,name,description,parent
+BE01,Starting business,,
+BE0101,Registering a company,"This business event groups public services that are related to different kinds of activities that have to be done before the business is eligible to operate, for instance registering in the business register, registering as aVATpayer, notifying the residence of your company...",BE01
+BE0102,"Needing a licence, permit or certificate to start or continue an activity","This business events groups public services related to the request of a licence, permit, certificate or other official document that have to be acquired before starting to execute a certain activity.",BE01
+BE0103,Registering Intellectual Property,"This business event groups public services related to the registering of inventions, patents, trademarks, copyrights.",BE01
+BE0104,Registering a branch,"This business event groups public services relating to the start-up of a new activity, and that have to be done before you can start with the particular activity.",BE01
+BE0105,Starting a new activity,"This business event groups public services for the start-up of a new activity, and that have to be done before you can start with the particular activity.",BE01
+BE0106,Financing a company,"This business event groups public services related to different types of funding,grants, loans, subsidies that help to finance the business.",BE01
+BE0107,Hiring an employee,"This business event groups public services for recruiting and registering employees, applying for a work permits, changes in employment.",BE01
+BE02,Starting cross- border business,,
+BE0201,Registering a cross-border business,This business event groups public services that result in starting international operations.,BE02
+BE0202,Registering a branch,This businessevent groups public services for opening affiliates and representative offices.,BE02
+BE03,Doing business,,
+BE0301,Financing a company,"This business event groups public services related to different types of funding, grants, loans, subsidies that help to finance the business.",BE03
+BE0302,"Needing a licence, permit or certificate to start or continue an activity","This business events groups public services related tothe request of a licence, permit, certificate or other official document that have to be acquired before starting to execute a certain activity.",BE03
+BE0303,Registering Intellectual Property,"This business event groups public services related to the registering of inventions, patents, trademarks, copyrights.",BE03
+BE0304,Hiring an employee,"This business event groups public services for recruiting and registering employees, applying for a work permits, changes in employment.",BE03
+BE0305,Participating in public procurement,"This business event groups public services related to participating in a public tender, or directly selling services/products to a public administration.",BE03
+BE0306,Notifying and reporting to authorities,"Notifying authorities about different type of activities, for instance environmental information annual reports, accounting procedures... This business event also includes periodical activities, for instance declaring the profit of a company (and thus paying taxes).",BE03
+BE0307,Starting a new activity,"This business event groups public services for the start-up of a new activity, and that have to be done before you can start with the particular activity.",BE03
+BE0308,Registering a branch,"This business event groups public services relating to the start-up of a new activity, and that have to be done before you can start with the particular activity.",BE03
+BE0309,Having problems in paying creditors,This business event groups public services for starting the necessary (legal) procedures for getting protection when a company does not have enough cash flow for paying creditors.,BE03
+BE04,Closing business,,
+BE0401,Restructuring of a  company,"This business event groups publicservices related to the reorganisation, merger, acquisition, any change on the legal status of the business.",BE04
+BE0402,Dissolution of a company,"This business event groups public services related to the closing, deregistration, discontinuation, liquidation, bankruptcy and other procedures that end the existence of a business.",BE04
