@@ -74,8 +74,8 @@
     foreach ($dataset[$dk]["versions"] as $dvv) {
       $version = $dvv;
 
-  echo $claset . "\n";
-  echo $version. "\n";
+//  echo $claset . "\n";
+//  echo $version. "\n";
 
 //  $src = "../../" . $claset . "/" . $version . ".rdf";
   $target_folder = "../../" . $claset;
