@@ -4,7 +4,7 @@
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE02</dct:identifier>
     <skos:notation>BE02</skos:notation>
-    <skos:prefLabel xml:lang="en">Starting cross- border business</skos:prefLabel>
+    <skos:prefLabel xml:lang="en">Starting cross-border business</skos:prefLabel>
     <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
     <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
     <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0201"/>

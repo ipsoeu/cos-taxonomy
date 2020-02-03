@@ -11,7 +11,6 @@
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:issued>
     <dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:valid>
     <wdrs:validfrom rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validfrom>
-    <wdrs:validuntil rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validuntil>
     <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/life-event/2019"/>
     <rdfs:isDefinedBy rdf:resource="https://joinup.ec.europa.eu/sites/default/files/news/2019-09/ISA2_European%20taxonomy%20for%20public%20services.pdf"/>
     <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/life-event/2019/LE01"/>

@@ -7,7 +7,7 @@ BE0104,Registering a branch,"This business event groups public services relating
 BE0105,Starting a new activity,"This business event groups public services for the start-up of a new activity, and that have to be done before you can start with the particular activity.",BE01
 BE0106,Financing a company,"This business event groups public services related to different types of funding,grants, loans, subsidies that help to finance the business.",BE01
 BE0107,Hiring an employee,"This business event groups public services for recruiting and registering employees, applying for a work permits, changes in employment.",BE01
-BE02,Starting cross- border business,,
+BE02,Starting cross-border business,,
 BE0201,Registering a cross-border business,This business event groups public services that result in starting international operations.,BE02
 BE0202,Registering a branch,This businessevent groups public services for opening affiliates and representative offices.,BE02
 BE03,Doing business,,
