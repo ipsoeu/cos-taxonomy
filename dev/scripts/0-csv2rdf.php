@@ -110,6 +110,9 @@
   }
   $output .= '    <dcat:landingPage rdf:resource="' . $base_uri . $claset . '/' . $version . '"/>' . "\n";
   $output .= '    <rdfs:isDefinedBy rdf:resource="' . $cs[$claset][$version]['definedby'] . '"/>' . "\n";
+  if (trim($cs[$claset][$version]['publisher']) != '') {
+    $output .= '    <dct:publisher rdf:resource="' . $cs[$claset][$version]['publisher'] . '"/>' . "\n";
+  }
   foreach ($csv as $k => $v) {
     if (trim($v["parent"]) == '') {
       $output .= '    <skos:hasTopConcept rdf:resource="' . $base_uri . $claset . '/' . $version . '/' . $v['id'] . '"/>' . "\n";
