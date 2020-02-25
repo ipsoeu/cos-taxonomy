@@ -6,7 +6,7 @@
   define("BASE_URI","https://ipsoeu.github.io/cos-taxonomy/");
   define("TOOL_ACRONYM","CoS Taxonomy");
   define("TOOL_NAME","European Taxonomy for Public Services");
-  define("ABOUT_URL","https://github.com/ipsoeu/cos-taxonomies");
+  define("ABOUT_URL","https://github.com/ipsoeu/cos-taxonomy");
   define("ABOUT_TEXT","CoS Taxonomy is an experimental Linked Data implementation of the taxonomy for public services developed in the framework of the Catalogue of Services Action of the EU ISA² Programme.");
 //  define("RAMON_TO_RDF","../xslt/ramon-to-rdf.xsl");
 //  define("NACE_TO_SKOS","../xslt/nace-to-skos.xsl");
