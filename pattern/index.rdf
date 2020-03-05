@@ -6,6 +6,8 @@
     <dct:alternative>PATTERN</dct:alternative>
     <dct:title xml:lang="en">Public services patterns</dct:title>
     <dct:description xml:lang="en">Public services patterns</dct:description>
+    <dct:publisher rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
     <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern"/>
     <dct:hasVersion rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern/2019"/>
   </rdf:Description>

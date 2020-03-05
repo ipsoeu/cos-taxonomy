@@ -113,6 +113,7 @@
   if (trim($cs[$claset][$version]['publisher']) != '') {
     $output .= '    <dct:publisher rdf:resource="' . $cs[$claset][$version]['publisher'] . '"/>' . "\n";
   }
+  $output .= '    <dct:license rdf:resource="' . LICENCE_URL . '"/>' . "\n";
   foreach ($csv as $k => $v) {
     if (trim($v["parent"]) == '') {
       $output .= '    <skos:hasTopConcept rdf:resource="' . $base_uri . $claset . '/' . $version . '/' . $v['id'] . '"/>' . "\n";

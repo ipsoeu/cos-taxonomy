@@ -6,6 +6,8 @@
     <dct:alternative>BUSINESS-EVENT</dct:alternative>
     <dct:title xml:lang="en">Business events</dct:title>
     <dct:description xml:lang="en">Business events</dct:description>
+    <dct:publisher rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
     <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event"/>
     <dct:hasVersion rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
   </rdf:Description>

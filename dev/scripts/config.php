@@ -8,8 +8,10 @@
   define("TOOL_NAME","European Taxonomy for Public Services");
   define("ABOUT_URL","https://github.com/ipsoeu/cos-taxonomy");
   define("ABOUT_TEXT","CoS Taxonomy is an experimental Linked Data implementation of the taxonomy for public services developed in the framework of the Catalogue of Services Action of the EU ISA² Programme.");
-//  define("RAMON_TO_RDF","../xslt/ramon-to-rdf.xsl");
-//  define("NACE_TO_SKOS","../xslt/nace-to-skos.xsl");
+  define("PUBLISHER_NAME","European Commission");
+  define("PUBLISHER_URL","http://publications.europa.eu/resource/authority/corporate-body/COM");
+  define("LICENCE_NAME","CC-BY 4.0");
+  define("LICENCE_URL","http://creativecommons.org/licenses/by/4.0/");
   define("SKOS_TO_HTML","../xslt/skos2html.xsl");
 
 //  $abs_path = parse_url(BASE_URI, PHP_URL_PATH);
@@ -94,46 +96,12 @@
   $dataset["business-event"]["name"] = "Business events";
   $dataset["business-event"]["description"] = "Business events";
   $dataset["business-event"]["versions"] = array("2019");
-/*
-  $xsluri["cofog"]["xml2rdf"] = RAMON_TO_RDF;
-  $xsluri["cpa"]["xml2rdf"] = NACE_TO_SKOS;
-  $xsluri["nace"]["xml2rdf"] = NACE_TO_SKOS;
-  $xsluri["nuts"]["xml2rdf"] = RAMON_TO_RDF;
-*/
+  
   $xsluri["rdf2html"] = SKOS_TO_HTML;
-//  $xsluri["cpa"]["rdf2html"] = SKOS_TO_HTML;
-//  $xsluri["cofog"]["rdf2html"] = SKOS_TO_HTML;
-//  $xsluri["nace"]["rdf2html"] = SKOS_TO_HTML;
-//  $xsluri["nuts"]["rdf2html"] = SKOS_TO_HTML;
 
   $src_uri["pattern"]["2019"]["csv"] = '../src/pattern-2019.csv';
   $src_uri["theme"]["2019"]["csv"] = '../src/theme-2019.csv';
   $src_uri["life-event"]["2019"]["csv"] = '../src/life-event-2019.csv';
   $src_uri["business-event"]["2019"]["csv"] = '../src/business-event-2019.csv';
 
-/*
-  $xmluri["cofog"]["1999"]["xml"] = '../src/CL_COFOG99.xml';
-
-  $xmluri["cpa"]["2014"]["xml"] = '../src/CPA_2_1.xml';
-
-  $xmluri["nace"]["1990"]["xml"] = '../src/NACE_REV1.xml';
-  $xmluri["nace"]["2002"]["xml"] = '../src/NACE_1_1.xml';
-  $xmluri["nace"]["2008"]["xml"] = '../src/NACE_REV2.xml';
-
-  $xmluri["nuts"]["2010"]["xml"] = '../src/NUTS_33.xml';
-  $xmluri["nuts"]["2013"]["xml"] = '../src/NUTS_2013.xml';
-  $xmluri["nuts"]["2016"]["xml"] = '../src/NUTS_2016.xml';
-
-  $xmluri["cofog"]["1999"]["rdf"] = '../../cofog/1999.rdf';
-
-  $xmluri["cpa"]["2014"]["rdf"] = '../../cpa/2014.rdf';
-
-  $xmluri["nace"]["1990"]["rdf"] = '../../nace/1990.rdf';
-  $xmluri["nace"]["2002"]["rdf"] = '../../nace/2002.rdf';
-  $xmluri["nace"]["2008"]["rdf"] = '../../nace/2008.rdf';
-
-  $xmluri["nuts"]["2010"]["rdf"] = '../../nuts/2010.rdf';
-  $xmluri["nuts"]["2013"]["rdf"] = '../../nuts/2013.rdf';
-  $xmluri["nuts"]["2016"]["rdf"] = '../../nuts/2016.rdf';
-*/
 ?>

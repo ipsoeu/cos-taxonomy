@@ -43,6 +43,8 @@
   $output .= '    <dct:alternative>' . TOOL_ACRONYM . '</dct:alternative>' . "\n";
   $output .= '    <dct:title xml:lang="en">' . TOOL_NAME . '</dct:title>' . "\n";
   $output .= '    <dct:description xml:lang="en">' . ABOUT_TEXT . '</dct:description>' . "\n";
+  $output .= '    <dct:publisher rdf:resource="' . PUBLISHER_URL . '"/>' . "\n";
+  $output .= '    <dct:license rdf:resource="' . LICENCE_URL . '"/>' . "\n";
   $output .= '    <dcat:landingPage rdf:resource="' . $base_uri . '"/>' . "\n";
 /*
   foreach ($formats as $k => $v) {
@@ -52,6 +54,7 @@
       $output .= '        <rdf:type rdf:resource="' . $ns["dcat"] . 'Distribution"/>' . "\n";
       $output .= '        <dct:title xml:lang="en">' . $formats[$k]["title"] . ' of ' . TOOL_ACRONYM . '</dct:title>' . "\n";
       $output .= '        <dct:description xml:lang="en">' . $formats[$k]["description"] . ' of ' . TOOL_ACRONYM . '</dct:description>' . "\n";
+      $output .= '        <dct:license rdf:resource="' . LICENCE_URL . '"/>' . "\n";
       $output .= '        <dcat:mediaType rdf:resource="' . $ns["mt"] . $formats[$k]["iana"] . '"/>' . "\n";
       $output .= '        <dct:format rdf:resource="' . $ns["ft"] . $formats[$k]["mdr"] . '"/>' . "\n";
       $output .= '        <dcat:downloadURL rdf:resource="' . $base_uri . 'index.' . $k . '"/>' . "\n";
@@ -80,6 +83,8 @@
     $output .= '    <dct:alternative>' . strtoupper($k) . '</dct:alternative>' . "\n";
     $output .= '    <dct:title xml:lang="en">' . $v["name"] . '</dct:title>' . "\n";
     $output .= '    <dct:description xml:lang="en">' . $v["name"] . '</dct:description>' . "\n";
+    $output .= '    <dct:publisher rdf:resource="' . PUBLISHER_URL . '"/>' . "\n";
+    $output .= '    <dct:license rdf:resource="' . LICENCE_URL . '"/>' . "\n";
     $output .= '    <dcat:landingPage rdf:resource="' . $base_uri . $k . '"/>' . "\n";
 /*
     foreach ($formats as $fk => $fv) {
@@ -89,6 +94,7 @@
         $output .= '        <rdf:type rdf:resource="' . $ns["dcat"] . 'Distribution"/>' . "\n";
         $output .= '        <dct:title xml:lang="en">' . $formats[$fk]["title"] . ' of ' . strtoupper($k) . '</dct:title>' . "\n";
         $output .= '        <dct:description xml:lang="en">' . $formats[$fk]["description"] . ' of the ' . $v["name"] . ' (' . strtoupper($k) . ').</dct:description>' . "\n";
+        $output .= '        <dct:license rdf:resource="' . LICENCE_URL . '"/>' . "\n";
         $output .= '        <dcat:mediaType rdf:resource="' . $ns["mt"] . $formats[$fk]["iana"] . '"/>' . "\n";
         $output .= '        <dct:format rdf:resource="' . $ns["ft"] . $formats[$fk]["mdr"] . '"/>' . "\n";
         $output .= '        <dcat:downloadURL rdf:resource="' . $base_uri . $k . '/index.' . $fk . '"/>' . "\n";

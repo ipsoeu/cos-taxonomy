@@ -6,6 +6,8 @@
     <dct:alternative>THEME</dct:alternative>
     <dct:title xml:lang="en">Public services themes</dct:title>
     <dct:description xml:lang="en">Public services themes</dct:description>
+    <dct:publisher rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
     <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme"/>
     <dct:hasVersion rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme/2019"/>
   </rdf:Description>

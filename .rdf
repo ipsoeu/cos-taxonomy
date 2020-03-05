@@ -6,6 +6,8 @@
     <dct:alternative>CoS Taxonomy</dct:alternative>
     <dct:title xml:lang="en">European Taxonomy for Public Services</dct:title>
     <dct:description xml:lang="en">CoS Taxonomy is an experimental Linked Data implementation of the taxonomy for public services developed in the framework of the Catalogue of Services Action of the EU ISA² Programme.</dct:description>
+    <dct:publisher rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
+    <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
     <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/"/>
     <dcat:dataset rdf:resource="https://ipsoeu.github.io/cos-taxonomy/pattern"/>
     <dcat:dataset rdf:resource="https://ipsoeu.github.io/cos-taxonomy/theme"/>
