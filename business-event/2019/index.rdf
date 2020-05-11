@@ -1,255 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF xmlns:dcat="http://www.w3.org/ns/dcat#" xmlns:dct="http://purl.org/dc/terms/" xmlns:gsp="http://www.opengis.net/ont/geosparql#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xkos="http://rdf-vocabulary.ddialliance.org/xkos#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:ft="http://publications.europa.eu/resource/authority/file-type/" xmlns:mt="https://www.iana.org/assignments/media-types/">
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
     <dct:identifier>business-event-2019</dct:identifier>
     <owl:versionInfo>2019</owl:versionInfo>
-    <dct:isVersionOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event"/>
+    <dct:isVersionOf rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event"/>
     <dct:title xml:lang="en">Business events</dct:title>
     <dct:description xml:lang="en">Business events</dct:description>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:issued>
     <dct:valid rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</dct:valid>
     <wdrs:validfrom rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-09-04</wdrs:validfrom>
-    <dcat:landingPage rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
+    <dcat:landingPage rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
     <rdfs:isDefinedBy rdf:resource="https://joinup.ec.europa.eu/sites/default/files/news/2019-09/ISA2_European%20taxonomy%20for%20public%20services.pdf"/>
     <dct:publisher rdf:resource="http://publications.europa.eu/resource/authority/corporate-body/COM"/>
     <dct:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
-    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
-    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE02"/>
-    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
-    <skos:hasTopConcept rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE04"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE02"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:hasTopConcept rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE04"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE01</dct:identifier>
     <skos:notation>BE01</skos:notation>
     <skos:prefLabel xml:lang="en">Starting business</skos:prefLabel>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0101"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0102"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0103"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0104"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0105"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0106"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0107"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:topConceptOf rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0101"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0102"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0103"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0104"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0105"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0106"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0107"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0101">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0101">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0101</dct:identifier>
     <skos:notation>BE0101</skos:notation>
     <skos:prefLabel xml:lang="en">Registering a company</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services that are related to different kinds of activities that have to be done before the business is eligible to operate, for instance registering in the business register, registering as aVATpayer, notifying the residence of your company...</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0102">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0102">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0102</dct:identifier>
     <skos:notation>BE0102</skos:notation>
     <skos:prefLabel xml:lang="en">Needing a licence, permit or certificate to start or continue an activity</skos:prefLabel>
     <skos:definition xml:lang="en">This business events groups public services related to the request of a licence, permit, certificate or other official document that have to be acquired before starting to execute a certain activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0103">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0103">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0103</dct:identifier>
     <skos:notation>BE0103</skos:notation>
     <skos:prefLabel xml:lang="en">Registering Intellectual Property</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to the registering of inventions, patents, trademarks, copyrights.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0104">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0104">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0104</dct:identifier>
     <skos:notation>BE0104</skos:notation>
     <skos:prefLabel xml:lang="en">Registering a branch</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services relating to the start-up of a new activity, and that have to be done before you can start with the particular activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0105">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0105">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0105</dct:identifier>
     <skos:notation>BE0105</skos:notation>
     <skos:prefLabel xml:lang="en">Starting a new activity</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services for the start-up of a new activity, and that have to be done before you can start with the particular activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0106">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0106">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0106</dct:identifier>
     <skos:notation>BE0106</skos:notation>
     <skos:prefLabel xml:lang="en">Financing a company</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to different types of funding,grants, loans, subsidies that help to finance the business.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0107">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0107">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0107</dct:identifier>
     <skos:notation>BE0107</skos:notation>
     <skos:prefLabel xml:lang="en">Hiring an employee</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services for recruiting and registering employees, applying for a work permits, changes in employment.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE01"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE01"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE02">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE02">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE02</dct:identifier>
     <skos:notation>BE02</skos:notation>
     <skos:prefLabel xml:lang="en">Starting cross-border business</skos:prefLabel>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0201"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0202"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:topConceptOf rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0201"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0202"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0201">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0201">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0201</dct:identifier>
     <skos:notation>BE0201</skos:notation>
     <skos:prefLabel xml:lang="en">Registering a cross-border business</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services that result in starting international operations.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE02"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE02"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0202">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0202">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0202</dct:identifier>
     <skos:notation>BE0202</skos:notation>
     <skos:prefLabel xml:lang="en">Registering a branch</skos:prefLabel>
     <skos:definition xml:lang="en">This businessevent groups public services for opening affiliates and representative offices.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE02"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE02"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE03</dct:identifier>
     <skos:notation>BE03</skos:notation>
     <skos:prefLabel xml:lang="en">Doing business</skos:prefLabel>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0301"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0302"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0303"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0304"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0305"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0306"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0307"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0308"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0309"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:topConceptOf rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0301"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0302"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0303"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0304"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0305"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0306"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0307"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0308"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0309"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0301">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0301">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0301</dct:identifier>
     <skos:notation>BE0301</skos:notation>
     <skos:prefLabel xml:lang="en">Financing a company</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to different types of funding, grants, loans, subsidies that help to finance the business.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0302">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0302">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0302</dct:identifier>
     <skos:notation>BE0302</skos:notation>
     <skos:prefLabel xml:lang="en">Needing a licence, permit or certificate to start or continue an activity</skos:prefLabel>
     <skos:definition xml:lang="en">This business events groups public services related tothe request of a licence, permit, certificate or other official document that have to be acquired before starting to execute a certain activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0303">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0303">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0303</dct:identifier>
     <skos:notation>BE0303</skos:notation>
     <skos:prefLabel xml:lang="en">Registering Intellectual Property</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to the registering of inventions, patents, trademarks, copyrights.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0304">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0304">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0304</dct:identifier>
     <skos:notation>BE0304</skos:notation>
     <skos:prefLabel xml:lang="en">Hiring an employee</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services for recruiting and registering employees, applying for a work permits, changes in employment.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0305">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0305">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0305</dct:identifier>
     <skos:notation>BE0305</skos:notation>
     <skos:prefLabel xml:lang="en">Participating in public procurement</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to participating in a public tender, or directly selling services/products to a public administration.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0306">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0306">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0306</dct:identifier>
     <skos:notation>BE0306</skos:notation>
     <skos:prefLabel xml:lang="en">Notifying and reporting to authorities</skos:prefLabel>
     <skos:definition xml:lang="en">Notifying authorities about different type of activities, for instance environmental information annual reports, accounting procedures... This business event also includes periodical activities, for instance declaring the profit of a company (and thus paying taxes).</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0307">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0307">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0307</dct:identifier>
     <skos:notation>BE0307</skos:notation>
     <skos:prefLabel xml:lang="en">Starting a new activity</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services for the start-up of a new activity, and that have to be done before you can start with the particular activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0308">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0308">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0308</dct:identifier>
     <skos:notation>BE0308</skos:notation>
     <skos:prefLabel xml:lang="en">Registering a branch</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services relating to the start-up of a new activity, and that have to be done before you can start with the particular activity.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0309">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0309">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0309</dct:identifier>
     <skos:notation>BE0309</skos:notation>
     <skos:prefLabel xml:lang="en">Having problems in paying creditors</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services for starting the necessary (legal) procedures for getting protection when a company does not have enough cash flow for paying creditors.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE03"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE03"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE04">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE04">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE04</dct:identifier>
     <skos:notation>BE04</skos:notation>
     <skos:prefLabel xml:lang="en">Closing business</skos:prefLabel>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:topConceptOf rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0401"/>
-    <skos:narrower rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0402"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:topConceptOf rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0401"/>
+    <skos:narrower rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0402"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0401">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0401">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0401</dct:identifier>
     <skos:notation>BE0401</skos:notation>
     <skos:prefLabel xml:lang="en">Restructuring of a  company</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups publicservices related to the reorganisation, merger, acquisition, any change on the legal status of the business.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE04"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE04"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE0402">
+  <rdf:Description rdf:about="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE0402">
     <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     <dct:identifier>BE0402</dct:identifier>
     <skos:notation>BE0402</skos:notation>
     <skos:prefLabel xml:lang="en">Dissolution of a company</skos:prefLabel>
     <skos:definition xml:lang="en">This business event groups public services related to the closing, deregistration, discontinuation, liquidation, bankruptcy and other procedures that end the existence of a business.</skos:definition>
-    <skos:inScheme rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019"/>
-    <skos:broader rdf:resource="https://ipsoeu.github.io/cos-taxonomy/business-event/2019/BE04"/>
+    <skos:inScheme rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019"/>
+    <skos:broader rdf:resource="https://w3id.org/ipsoeu/cos-taxonomy/business-event/2019/BE04"/>
   </rdf:Description>
 </rdf:RDF>

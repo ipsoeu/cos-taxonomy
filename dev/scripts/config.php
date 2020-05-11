@@ -3,7 +3,8 @@
   define("ABS_PATH","/cos-taxonomy/");
   define("ROOT","../../");
 //  define("BASE_URI","http://localhost/cos-taxonomy/");
-  define("BASE_URI","https://ipsoeu.github.io/cos-taxonomy/");
+//  define("BASE_URI","https://ipsoeu.github.io/cos-taxonomy/");
+  define("BASE_URI","https://w3id.org/ipsoeu/cos-taxonomy/");
   define("TOOL_ACRONYM","CoS Taxonomy");
   define("TOOL_NAME","European Taxonomy for Public Services");
   define("ABOUT_URL","https://github.com/ipsoeu/cos-taxonomy");
